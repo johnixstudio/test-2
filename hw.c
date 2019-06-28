@@ -8,6 +8,6 @@ int main()
 
 void fun()
 {
-   // doing something now...
-   printf("This is fun.\n");
+   // doing nothing here...
+   // OK, agreed!
 }
