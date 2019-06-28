@@ -9,4 +9,5 @@ int main()
 void fun()
 {
    // doing nothing here...
+   // OK, agreed!
 }
